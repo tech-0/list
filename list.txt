@@ -12,3 +12,5 @@ error root=0
 0
 uhq_combo
 10527
+tarmaye
+10363
